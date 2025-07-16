@@ -10,4 +10,4 @@ Keahlian Utama:
 
 Kontak:
 - LinkedIn: https://www.linkedin.com/in/gea-anindiya-16abb22bb/
-- Email: geaanindiya@email.com
+- Email: geanindyaa@gmail.com
