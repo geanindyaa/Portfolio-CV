@@ -2,7 +2,7 @@ Halo! Saya Gea Anindiya, mahasiswa semester 5 prodi S1 Sistem Informasi di Unive
 
 Repository ini berisi versi terbaru 2025:
 - Curriculum Vitae (CV) = Riwayat pendidikan, keahlian, pengalaman, dan kontak
-- Portofolio = Kumpulan project design UI/UX
+- Portfolio = Kumpulan project design UI/UX
 
 Keahlian Utama:
 - UI/UX Design (Figma, Prototyping, Wireframing)
