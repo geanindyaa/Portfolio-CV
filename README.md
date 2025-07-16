@@ -18,7 +18,7 @@ Link Project:
    - Prototype Web
      (https://s.id/adminismart)
 3. FINDURTICKET | Sebagai Back End Developer
-   - Kode Program
+   - Kode Program Web
      (https://s.id/findurticket)
 
 Kontak:
