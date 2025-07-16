@@ -10,12 +10,16 @@ Keahlian Utama:
 
 Link Project:
 - ANTREE - SMART QUEUE SYSTEM (Sebagai UI/UX Designer)
-  1. Prototype Web Admin: https://s.id/antree-admin
-  2. Prototype Web Pengunjung: https://s.id/antree-pengunjung
+  1. Prototype Web Admin
+     (https://s.id/antree-admin)
+  2. Prototype Web Pengunjung
+     (https://s.id/antree-pengunjung)
 - ADMINISMART – SISTEM INFORMASI ADMINISTRASI (Sebagai UI/UX Designer)
-  1. Prototype Web: https://s.id/adminismart
+  1. Prototype Web
+     (https://s.id/adminismart)
 - FINDURTICKET (Sebagai Back End Developer))
-  1. Kode Program: https://s.id/findurticket
+  1. Kode Program
+     (https://s.id/findurticket)
 
 Kontak:
 - LinkedIn: https://www.linkedin.com/in/gea-anindiya-16abb22bb/
