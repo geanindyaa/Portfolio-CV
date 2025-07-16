@@ -9,15 +9,15 @@ Keahlian Utama:
 - Web Development (HTML, CSS, Bootstrap, PHP, MySQL)
 
 Link Project:
-1. ANTREE - SMART QUEUE SYSTEM (Sebagai UI/UX Designer)
+1. ANTREE - SMART QUEUE SYSTEM | Sebagai UI/UX Designer
    - Prototype Web Admin
      (https://s.id/antree-admin)
    - Prototype Web Pengunjung
      (https://s.id/antree-pengunjung)
-2. ADMINISMART – SISTEM INFORMASI ADMINISTRASI (Sebagai UI/UX Designer)
+2. ADMINISMART – SISTEM INFORMASI ADMINISTRASI | Sebagai UI/UX Designer
    - Prototype Web
      (https://s.id/adminismart)
-3. FINDURTICKET (Sebagai Back End Developer))
+3. FINDURTICKET | Sebagai Back End Developer
    - Kode Program
      (https://s.id/findurticket)
 
