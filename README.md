@@ -1,6 +1,6 @@
-Halo! Saya Gea Anindiya, mahasiswa S1 Sistem Informasi di Universitas Singaperbangsa Karawang, dengan ketertarikan besar dalam bidang UI/UX Design.
+Halo! Saya Gea Anindiya, mahasiswa semester 5 prodi S1 Sistem Informasi di Universitas Singaperbangsa Karawang, dengan ketertarikan besar dalam bidang UI/UX Design.
 
-Repository ini berisi versi terbaru dari:
+Repository ini berisi versi terbaru 2025:
 - Curriculum Vitae (CV) = Riwayat pendidikan, keahlian, pengalaman, dan kontak
 - Portofolio = Kumpulan proyek design UI/UX
 
